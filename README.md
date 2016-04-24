@@ -33,6 +33,5 @@ The methods are supplied by jquery.min.js that located in bower_components\jquer
  the student.sql should be imported into your Mysql database before you test this ajax get task
 
 
- jquery.min.js
 
 
